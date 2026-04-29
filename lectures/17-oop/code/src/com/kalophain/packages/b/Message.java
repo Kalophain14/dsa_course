@@ -1,4 +1,4 @@
-package kalophain.lectures.17-oop.code.src.com.kalophain.packages.b;
+package kalophain;
 
 public class Message {
 

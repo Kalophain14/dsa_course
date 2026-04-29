@@ -1,4 +1,4 @@
-package kalophain.lectures.17-oop.code.src.com.kalophain.interfaces.nested;
+package kalophain;
 
 public class Main {
 

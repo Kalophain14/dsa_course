@@ -1,4 +1,4 @@
-package kalophain.lectures.26-advance-sorting.RadixSort;
+package kalophain;
 
 public class Main {
 

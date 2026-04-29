@@ -1,4 +1,4 @@
-package kalophain.lectures.20-trees.code.Advance questions;
+package kalophain;
 
 public class KthSmallest2 {
 

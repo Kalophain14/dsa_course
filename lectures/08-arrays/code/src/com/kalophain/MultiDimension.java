@@ -1,4 +1,4 @@
-package kalophain.lectures.08-arrays.code.src.com.kalophain;
+package kalophain;
 
 public class MultiDimension {
 

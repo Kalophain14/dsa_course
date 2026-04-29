@@ -1,4 +1,4 @@
-package kalophain.lectures.11-sorting.code.src.com.kalophain;
+package kalophain;
 
 public class FindAllMissing {
 

@@ -1,4 +1,4 @@
-package kalophain.lectures.10-binary search.code.src.com.kalophain;
+package kalophain;
 
 public class RBS {
 

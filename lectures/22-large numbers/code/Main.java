@@ -1,4 +1,4 @@
-package kalophain.lectures.22-large numbers.code;
+package kalophain;
 
 public class Main {
 

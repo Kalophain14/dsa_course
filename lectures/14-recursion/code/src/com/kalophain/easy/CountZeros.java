@@ -1,4 +1,4 @@
-package kalophain.lectures.14-recursion.code.src.com.kalophain.easy;
+package kalophain;
 
 public class CountZeros {
 

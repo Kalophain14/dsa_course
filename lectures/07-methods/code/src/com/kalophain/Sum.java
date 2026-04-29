@@ -1,4 +1,4 @@
-package kalophain.lectures.07-methods.code.src.com.kalophain;
+package kalophain;
 
 public class Sum {
 

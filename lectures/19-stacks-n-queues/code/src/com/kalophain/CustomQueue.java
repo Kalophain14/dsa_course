@@ -1,4 +1,4 @@
-package kalophain.lectures.19-stacks-n-queues.code.src.com.kalophain;
+package kalophain;
 
 public class CustomQueue {
 

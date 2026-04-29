@@ -1,4 +1,4 @@
-package kalophain.lectures.06-conditions-loops.switch.src.com.kalophain;
+package kalophain;
 
 public class NestedSwitch {
 

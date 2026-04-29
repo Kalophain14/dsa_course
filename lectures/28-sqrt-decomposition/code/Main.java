@@ -1,4 +1,4 @@
-package kalophain.lectures.28-sqrt-decomposition.code;
+package kalophain;
 
 public class Main {
 

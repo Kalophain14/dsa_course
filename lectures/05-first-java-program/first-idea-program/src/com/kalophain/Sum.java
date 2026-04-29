@@ -1,4 +1,4 @@
-package kalophain.lectures.05-first-java-program.first-idea-program.src.com.kalophain;
+package kalophain;
 
 public class Sum {
 

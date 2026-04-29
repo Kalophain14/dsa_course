@@ -1,4 +1,4 @@
-package kalophain.lectures.12-strings.code.src.com.kalophain;
+package kalophain;
 
 public class PrettyPrinting {
 

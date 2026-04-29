@@ -1,4 +1,4 @@
-package kalophain.lectures.20-trees.code.introduction;
+package kalophain;
 
 public class BinaryTree {
 

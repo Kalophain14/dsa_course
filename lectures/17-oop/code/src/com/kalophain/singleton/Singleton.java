@@ -1,4 +1,4 @@
-package kalophain.lectures.17-oop.code.src.com.kalophain.singleton;
+package kalophain;
 
 public class Singleton {
 

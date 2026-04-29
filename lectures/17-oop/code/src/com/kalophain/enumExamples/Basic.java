@@ -1,4 +1,4 @@
-package kalophain.lectures.17-oop.code.src.com.kalophain.enumExamples;
+package kalophain;
 
 public class Basic {
 

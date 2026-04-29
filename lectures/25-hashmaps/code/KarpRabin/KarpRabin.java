@@ -1,4 +1,4 @@
-package kalophain.lectures.25-hashmaps.code.KarpRabin;
+package kalophain;
 
 public class KarpRabin {
 

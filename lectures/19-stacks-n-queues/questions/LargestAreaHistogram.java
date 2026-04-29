@@ -1,4 +1,4 @@
-package kalophain.lectures.19-stacks-n-queues.questions;
+package kalophain;
 
 public class LargestAreaHistogram {
 

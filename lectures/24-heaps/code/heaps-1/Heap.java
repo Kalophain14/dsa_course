@@ -1,4 +1,4 @@
-package kalophain.lectures.24-heaps.code.heaps-1;
+package kalophain;
 
 public class Heap {
 

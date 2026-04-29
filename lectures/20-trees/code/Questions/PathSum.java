@@ -1,4 +1,4 @@
-package kalophain.lectures.20-trees.code.Questions;
+package kalophain;
 
 public class PathSum {
 

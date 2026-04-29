@@ -1,4 +1,4 @@
-package kalophain.lectures.17-oop.code.src.com.kalophain.generics.comparing;
+package kalophain;
 
 public class Main {
 

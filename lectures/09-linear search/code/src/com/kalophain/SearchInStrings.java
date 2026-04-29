@@ -1,4 +1,4 @@
-package kalophain.lectures.09-linear search.code.src.com.kalophain;
+package kalophain;
 
 public class SearchInStrings {
 

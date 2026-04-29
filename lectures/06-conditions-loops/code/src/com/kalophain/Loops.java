@@ -1,4 +1,4 @@
-package kalophain.lectures.06-conditions-loops.code.src.com.kalophain;
+package kalophain;
 
 public class Loops {
 

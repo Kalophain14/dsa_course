@@ -1,4 +1,4 @@
-package kalophain.lectures.13-patterns.code.src.com.kalophain;
+package kalophain;
 
 public class Main {
 

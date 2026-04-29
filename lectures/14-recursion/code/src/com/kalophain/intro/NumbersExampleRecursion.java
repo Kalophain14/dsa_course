@@ -1,4 +1,4 @@
-package kalophain.lectures.14-recursion.code.src.com.kalophain.intro;
+package kalophain;
 
 public class NumbersExampleRecursion {
 

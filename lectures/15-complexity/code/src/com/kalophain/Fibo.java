@@ -1,4 +1,4 @@
-package kalophain.lectures.15-complexity.code.src.com.kalophain;
+package kalophain;
 
 public class Fibo {
 

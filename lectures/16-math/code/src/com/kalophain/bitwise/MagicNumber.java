@@ -1,4 +1,4 @@
-package kalophain.lectures.16-math.code.src.com.kalophain.bitwise;
+package kalophain;
 
 public class MagicNumber {
 

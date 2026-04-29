@@ -1,4 +1,4 @@
-package kalophain.lectures.26-advance-sorting.CountSort;
+package kalophain;
 
 public class Main {
 

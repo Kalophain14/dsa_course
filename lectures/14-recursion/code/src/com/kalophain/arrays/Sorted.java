@@ -1,4 +1,4 @@
-package kalophain.lectures.14-recursion.code.src.com.kalophain.arrays;
+package kalophain;
 
 public class Sorted {
 

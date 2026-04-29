@@ -1,4 +1,4 @@
-package kalophain.lectures.17-oop.code.src.com.kalophain.cloning;
+package kalophain;
 
 public class Human {
 

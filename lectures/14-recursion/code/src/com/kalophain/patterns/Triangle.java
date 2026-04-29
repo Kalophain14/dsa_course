@@ -1,4 +1,4 @@
-package kalophain.lectures.14-recursion.code.src.com.kalophain.patterns;
+package kalophain;
 
 public class Triangle {
 

@@ -1,4 +1,4 @@
-package kalophain.lectures.21-StringBuffer.code;
+package kalophain;
 
 public class RandomString {
 

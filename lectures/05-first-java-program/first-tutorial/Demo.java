@@ -1,4 +1,4 @@
-package kalophain.lectures.05-first-java-program.first-tutorial;
+package kalophain;
 
 public class Demo {
 

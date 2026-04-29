@@ -1,4 +1,4 @@
-package kalophain.lectures.20-trees.code.Segment trees;
+package kalophain;
 
 public class SegmentTree {
 

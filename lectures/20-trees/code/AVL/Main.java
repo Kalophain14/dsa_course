@@ -1,4 +1,4 @@
-package kalophain.lectures.20-trees.code.AVL;
+package kalophain;
 
 public class Main {
 

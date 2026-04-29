@@ -1,4 +1,4 @@
-package kalophain.lectures.17-oop.code.src.com.kalophain.interfaces;
+package kalophain;
 
 public class Media {
 

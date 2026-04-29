@@ -1,4 +1,4 @@
-package kalophain.lectures.25-hashmaps.code.Hashmaps introduction;
+package kalophain;
 
 public class Main {
 

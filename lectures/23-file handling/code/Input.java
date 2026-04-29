@@ -1,4 +1,4 @@
-package kalophain.lectures.23-file handling.code;
+package kalophain;
 
 public class Input {
 

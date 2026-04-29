@@ -1,4 +1,4 @@
-package kalophain.lectures.17-oop.code.src.com.kalophain.properties.inheritance;
+package kalophain;
 
 public class BoxColor {
 

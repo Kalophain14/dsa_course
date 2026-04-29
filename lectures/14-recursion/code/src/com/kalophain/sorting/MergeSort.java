@@ -1,4 +1,4 @@
-package kalophain.lectures.14-recursion.code.src.com.kalophain.sorting;
+package kalophain;
 
 public class MergeSort {
 

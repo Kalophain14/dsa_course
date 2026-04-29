@@ -1,4 +1,4 @@
-package kalophain.lectures.17-oop.code.src.com.kalophain.packages.a;
+package kalophain;
 
 public class Greeting {
 

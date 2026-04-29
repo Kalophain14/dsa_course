@@ -1,4 +1,4 @@
-package kalophain.lectures.27-huffman-coding.code;
+package kalophain;
 
 public class HuffmanCoder {
 

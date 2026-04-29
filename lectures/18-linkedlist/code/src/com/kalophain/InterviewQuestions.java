@@ -1,4 +1,4 @@
-package kalophain.lectures.18-linkedlist.code.src.com.kalophain;
+package kalophain;
 
 public class InterviewQuestions {
 
