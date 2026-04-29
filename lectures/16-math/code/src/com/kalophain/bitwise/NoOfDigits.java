@@ -1,1 +1,9 @@
-package com.kalophain.bitwise;
+package kalophain.lectures.16-math.code.src.com.kalophain.bitwise;
+
+public class NoOfDigits {
+
+    public static void main(String[] args) {
+        // TODO: add your solution here
+    }
+
+}

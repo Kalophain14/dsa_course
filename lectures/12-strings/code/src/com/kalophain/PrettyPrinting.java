@@ -1,1 +1,9 @@
-package com.kalophain;
+package kalophain.lectures.12-strings.code.src.com.kalophain;
+
+public class PrettyPrinting {
+
+    public static void main(String[] args) {
+        // TODO: add your solution here
+    }
+
+}

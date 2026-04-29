@@ -1,1 +1,9 @@
-package com.kalophain.staticExample;
+package kalophain.lectures.17-oop.code.src.com.kalophain.staticExample;
+
+public class StaticBlock {
+
+    public static void main(String[] args) {
+        // TODO: add your solution here
+    }
+
+}
