@@ -1,4 +1,4 @@
-package kalo;
+package kalo.code.KarpRabin;
 
 public class Main {
 

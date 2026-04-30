@@ -1,4 +1,4 @@
-package kalo;
+package kalo.huffman_coding;
 
 public class Main {
 

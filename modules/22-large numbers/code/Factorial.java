@@ -1,4 +1,4 @@
-package kalo;
+package kalo.large_numbers;
 
 public class Factorial {
 

@@ -1,4 +1,4 @@
-package kalo;
+package kalo.file_handling;
 
 public class Input {
 

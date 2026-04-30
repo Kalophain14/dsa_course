@@ -1,4 +1,4 @@
-package kalo;
+package kalo.stacks_n_queues.questions;
 
 public class QueueUsingStack {
 

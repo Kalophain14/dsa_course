@@ -1,4 +1,4 @@
-package kalo;
+package kalo.StringBuffer;
 
 public class Main {
 

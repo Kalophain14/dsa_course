@@ -1,4 +1,4 @@
-package kalo;
+package kalo.code.Hashmaps_introduction;
 
 public class Main {
 

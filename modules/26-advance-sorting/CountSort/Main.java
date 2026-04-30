@@ -1,4 +1,4 @@
-package kalo;
+package kalo.advance_sorting.CountSort;
 
 public class Main {
 
