@@ -1,9 +1,9 @@
-package kalophain;
+package kalo;
 
 public class TwoStacks {
 
     public static void main(String[] args) {
-        // TODO: add your solution here
+
     }
 
 }

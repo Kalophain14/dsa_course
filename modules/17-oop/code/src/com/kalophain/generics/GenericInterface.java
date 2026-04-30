@@ -1,9 +1,9 @@
-package kalophain;
+package kalo;
 
 public class GenericInterface {
 
     public static void main(String[] args) {
-        // TODO: add your solution here
+
     }
 
 }
