@@ -1,4 +1,4 @@
-package kalo.StringBuffer;
+package kalo.stringbuffer;
 
 public class RandomString {
 

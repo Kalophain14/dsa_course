@@ -1,4 +1,4 @@
-package kalo.first_java_program.first_tutorial;
+package kalo.first_java_program;
 
 public class Demo {
 

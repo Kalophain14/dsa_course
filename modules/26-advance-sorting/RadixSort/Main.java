@@ -1,4 +1,4 @@
-package kalo.advance_sorting.RadixSort;
+package kalo.advance_sorting;
 
 public class Main {
 

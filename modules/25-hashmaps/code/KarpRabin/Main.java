@@ -1,4 +1,4 @@
-package kalo.code.KarpRabin;
+package kalo.hashmaps;
 
 public class Main {
 

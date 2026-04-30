@@ -1,4 +1,4 @@
-package kalo.code.heaps_1;
+package kalo.heaps;
 
 public class Heap {
 

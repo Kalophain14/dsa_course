@@ -1,4 +1,4 @@
-package kalo.code.Hashmaps_introduction;
+package kalo.hashmaps;
 
 public class HashMapFinal {
 
